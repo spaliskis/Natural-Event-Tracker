@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3nILZWPmPMBtT8/74ZVIC/kQ4N1HLXq9wW8QAnZxvrV9u75AuDpbOElvPwB0Xx6MyrljQrM9qfCVMIFrKhzLjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sharas\\source\\repos\\EventInfoLibrary\\EventInfoLibrary\\EventInfoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sharas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Sharas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sharas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Sharas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

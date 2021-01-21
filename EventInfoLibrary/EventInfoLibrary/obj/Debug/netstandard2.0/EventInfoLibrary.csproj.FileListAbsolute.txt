@@ -1,0 +1,11 @@
+C:\Users\Sharas\source\repos\EventInfoLibrary\EventInfoLibrary\obj\Debug\netstandard2.0\EventInfoLibrary.AssemblyInfoInputs.cache
+C:\Users\Sharas\source\repos\EventInfoLibrary\EventInfoLibrary\obj\Debug\netstandard2.0\EventInfoLibrary.AssemblyInfo.cs
+C:\Users\Sharas\source\repos\EventInfoLibrary\EventInfoLibrary\obj\Debug\netstandard2.0\EventInfoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sharas\source\repos\EventInfoLibrary\EventInfoLibrary\bin\Debug\netstandard2.0\EventInfoLibrary.deps.json
+C:\Users\Sharas\source\repos\EventInfoLibrary\EventInfoLibrary\bin\Debug\netstandard2.0\EventInfoLibrary.dll
+C:\Users\Sharas\source\repos\EventInfoLibrary\EventInfoLibrary\bin\Debug\netstandard2.0\EventInfoLibrary.pdb
+C:\Users\Sharas\source\repos\EventInfoLibrary\EventInfoLibrary\obj\Debug\netstandard2.0\EventInfoLibrary.dll
+C:\Users\Sharas\source\repos\EventInfoLibrary\EventInfoLibrary\obj\Debug\netstandard2.0\EventInfoLibrary.pdb
+C:\Users\Sharas\source\repos\NuGet\netstandard2.0\EventInfoLibrary.deps.json
+C:\Users\Sharas\source\repos\NuGet\netstandard2.0\EventInfoLibrary.dll
+C:\Users\Sharas\source\repos\NuGet\netstandard2.0\EventInfoLibrary.pdb

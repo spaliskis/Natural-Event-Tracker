@@ -1,0 +1,14 @@
+C:\Users\Sharas\source\repos\EventForm\TestEvents.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sharas\source\repos\EventForm\TestEvents.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sharas\source\repos\EventForm\TestEvents.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Sharas\source\repos\EventForm\TestEvents.UnitTests\bin\Debug\TestEvents.UnitTests.dll
+C:\Users\Sharas\source\repos\EventForm\TestEvents.UnitTests\bin\Debug\TestEvents.UnitTests.pdb
+C:\Users\Sharas\source\repos\EventForm\TestEvents.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Sharas\source\repos\EventForm\TestEvents.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Sharas\source\repos\EventForm\TestEvents.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Sharas\source\repos\EventForm\TestEvents.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Sharas\source\repos\EventForm\TestEvents.UnitTests\obj\Debug\TestEvents.UnitTests.csprojAssemblyReference.cache
+C:\Users\Sharas\source\repos\EventForm\TestEvents.UnitTests\obj\Debug\TestEvents.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Sharas\source\repos\EventForm\TestEvents.UnitTests\obj\Debug\TestEvents.UnitTests.csproj.CopyComplete
+C:\Users\Sharas\source\repos\EventForm\TestEvents.UnitTests\obj\Debug\TestEvents.UnitTests.dll
+C:\Users\Sharas\source\repos\EventForm\TestEvents.UnitTests\obj\Debug\TestEvents.UnitTests.pdb
